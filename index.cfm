@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <title>ColdFusion AWS Demo</title>
+    <title>Hello Hunter Rose</title>
 
     <style>
         body {
